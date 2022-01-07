@@ -29,7 +29,7 @@ params:
 
   # home
   disable_home: false
-  profile_image: /images/profile.jpg
+  profile_image: /images/profile.png
   name: "Rohan Patankar"
   namecolor: ffc107
   profession: "Aspiring Data Scientist"
