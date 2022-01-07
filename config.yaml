@@ -119,8 +119,8 @@ params:
   # Projects
   disable_projects: false
   projects:
-    - name: "Example project without details"
-      img: /images/project.jpg
+    - name: "progress"
+      img: /images/progress.jpg
       githublink: "https://github.com/"
       featuredlink: ""
       description: "Description of project"
