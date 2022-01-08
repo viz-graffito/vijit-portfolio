@@ -140,9 +140,9 @@ params:
       description: "With the help of tableu or python analyze the data of client needs which help them to solve business problems."
       img: /images/da.jpg
       # url: https://example.com
-    - title: learning in process
+    - title: App Devolopment Soon...
       description: 
-      img: /images/progress.jpg
+      img: /images/app.jpg
     
   # Contact
   disable_contact: false
