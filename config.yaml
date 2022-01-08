@@ -137,7 +137,7 @@ params:
       description: "Design a website for personal use or for business purpose using HTML, CSS, JS and Python."
       img: /images/Website-Design-new.jpg
     - title: Data Analysis
-      description: "With the help of tableu or python analyze the data of client needs which help them to solve business problems"
+      description: "With the help of tableu or python analyze the data of client needs which help them to solve business problems."
       img: /images/da.jpg
       # url: https://example.com
     - title: learning in process
