@@ -142,7 +142,7 @@ params:
       # url: https://example.com
     - title: Ml and Dl models
       description: "Build various types of ML and DL models according to business or client needs in which it helps to solve complex business issues." 
-      img: /images/ml.jpg
+      img: /images/ml.png
     
   # Contact
   disable_contact: false
