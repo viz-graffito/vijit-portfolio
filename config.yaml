@@ -36,16 +36,16 @@ params:
   github: "https://github.com/ROHANPATAKAR/"
   linkedin: "https://www.linkedin.com/in/rohan-patankar-2aa707213/"
   twitter: "https://twitter.com/Rohan20075428"
-  gmail: "rohanpatankar926@mail.com"
+  gmail: "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rohanpatankar926@gmail.com"
   instagram: "https://instagram.com/__rohan__95?utm_medium=copy_link"
   
 
   # Custom social links
   customSocialLinks:
     - fontAwesomeIconName: "fa fa-envelope"
-      url: "https://mail.google.com/mail/u/0/rohanpatankar926@gmail.com"
+      url: ""
       fontAwesomeIconName: "fa fa-envelope"
-      url: "https://mail.google.com/mail/u/0/rohanpatankar926@gmail.com"
+      url: ""
 
   # About
   disable_about: false  
