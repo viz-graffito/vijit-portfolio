@@ -140,7 +140,7 @@ params:
       description: "With the help of tableu or python analyze the data of the business or client needs which help them to solve business problems."
       img: /images/da.jpg
       # url: https://example.com
-    - title: Ml and Dl models
+    - title: Machine Learning & Deep Learning
       description: "Build various types of ML and DL models according to business or client needs in which it helps to solve complex business issues." 
       img: /images/ml.png
     
