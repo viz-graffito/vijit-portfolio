@@ -43,9 +43,9 @@ params:
   # Custom social links
   customSocialLinks:
     - fontAwesomeIconName: "fa fa-envelope"
-      url: ""
+      url: "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rohanpatankar926@gmail.com"
       fontAwesomeIconName: "fa fa-envelope"
-      url: ""
+      url: "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rohanpatankar926@gmail.com"
 
   # About
   disable_about: false  
