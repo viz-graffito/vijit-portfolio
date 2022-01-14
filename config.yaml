@@ -34,18 +34,18 @@ params:
   namecolor: ffc107
   profession: "Aspiring Data Scientist"
   github: "https://github.com/ROHANPATAKAR/"
-  linkedin: "https://linkedin.com"
+  linkedin: "https://www.linkedin.com/in/rohan-patankar-2aa707213/"
   twitter: "https://twitter.com/Rohan20075428"
-  gmail: "https://gmail.com/rohanpatankar926@gmail.com"
+  gmail: "https://mail.google.com/mail/u/0/rohanpatankar926@gmail.com"
   instagram: "https://instagram.com/__rohan__95?utm_medium=copy_link"
   
 
   # Custom social links
   customSocialLinks:
     - fontAwesomeIconName: "fa fa-envelope"
-      url: "https://gmail.com/rohanpatankar926@gamil.com"
+      url: "https://mail.google.com/mail/u/0/rohanpatankar926@gmail.com"
       fontAwesomeIconName: "fa fa-envelope"
-      url: "https://gmail.com/rohanpatankar926@gmail.com"
+      url: "https://mail.google.com/mail/u/0/rohanpatankar926@gmail.com"
 
   # About
   disable_about: false  
