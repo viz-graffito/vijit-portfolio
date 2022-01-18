@@ -128,9 +128,9 @@ params:
   # Projects
   disable_projects: false
   projects:
-    - name: "progress"
+    - name: "Onsite Health Diagnostic"
       img: /images/progress.jpg
-      githublink: "https://github.com/ROHANPATAKAR/ml-preprocessor-cli"
+      githublink: "https://github.com/ROHANPATAKAR/"
       featuredlink: ""
       description: "Description of project"
     - name: "Insurance prediction website"
