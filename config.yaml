@@ -78,7 +78,7 @@ params:
   # Experience
   disable_experience: false
   experience:
-     - company: "ineuron.ai"
+    - company: "ineuron.ai"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
       role: "Project based internship"
       startdate: "Jan 2021"
