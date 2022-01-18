@@ -78,6 +78,15 @@ params:
   # Experience
   disable_experience: false
   experience:
+     - company: "ineuron.ai"
+      # id: "google-developer"   // use this, when you want to change the id(used for navigation)
+      role: "Project based internship"
+      startdate: "Jan 2021"
+      enddate: "Oct 2021"
+      featuredpoints:
+        - point: "Made high level prediction project using ml algorithm"
+        - point: "Using Flask made a simple web application"
+        - point: "Deployed in Heroku"
     - company: "PantechSolutions"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
       role: "Machine Learning Internship"
@@ -123,6 +132,11 @@ params:
       img: /images/progress.jpg
       githublink: "https://github.com/ROHANPATAKAR/ml-preprocessor-cli"
       featuredlink: ""
+      description: "Description of project"
+    - name: "Insurance prediction website"
+      img: /images/progress.jpg
+      githublink: "https://github.com/ROHANPATAKAR/isurance_premium_prediction_web_app"
+      featuredlink: "offerletter.pdf"
       description: "Description of project"
     - name: "ML Preprocessor CLI"
       img: /images/ml_pic.png
