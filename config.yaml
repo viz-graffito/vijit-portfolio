@@ -85,8 +85,8 @@ params:
       enddate: "ongoing"
       featuredpoints:
         - point: "Solving an realworld usecase challenge given in the intership"
-        - point: "Using ml i will build model and using Flask will make a simple web application"
-        - point: "Deploy using Heroku"
+        - point: "Using ml I will build model and using Flask will make a simple web application"
+        - point: "Finally hosting using Heroku"
     - company: "PantechSolutions"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
       role: "Machine Learning Internship"
