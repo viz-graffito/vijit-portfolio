@@ -1,2 +1,2 @@
 # personal-portfolio
-<a href="https://gifted-gates-4b6df9.netlify.app/" target="_main">www.rohanpatankar/portfolio.com</a>
+<a href="https://gifted-gates-4b6df9.netlify.app/" target="__blank">www.rohanpatankar/portfolio.com</a>
