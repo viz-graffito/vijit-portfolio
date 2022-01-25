@@ -19,12 +19,12 @@
             {{ if .Site.Params.email }}
             <div class="py-3 pl-2">
               <a href="\rohan\resume.pdf"
-                class="contact-btn btn text-muted" download="\rohan\resume.pdf">
-                {{ .Site.Params.getintouch | default "Download Resume" }}
+                class="contact-btn btn text-muted" >
+                My Resume
               </a>
                <a href="\rohan\resume.pdf"
-                class="contact-btn btn text-muted" >
-                {{ .Site.Params.getintouch | default "Download Resume" }}
+                class="contact-btn btn text-muted" download="\rohan\resume.pdf">
+                =Download Resume
               </a>
             </div>
             {{ end }}
