@@ -142,7 +142,15 @@ params:
       img: /images/ml_pic.png
       githublink: "https://github.com/rohanpatankar926/ml-preprocessor-cli"
       featuredlink: "https://www.crio.do/projects/python-preprocessor-cli/"
-      description: "The main objective of this project is You will implement a Command Line Interface (CLI) which will preprocess your dataset and save your time."
+      description: "The main objective of this project is You will implement a Command Line Interface (CLI) which will preprocess your dataset and save your time.
+      "Gist"
+      "Given the database, the CLI provides various options to preprocess the data."
+      "Options:"
+      "Data Description"
+      "Handling NULL Values"
+      "Encoding Categorical Data "
+      "Feature Scaling"
+      "We can also DOWNLOAD⬇️ the modified dataset."
 
   # services
   disable_achievements: false
