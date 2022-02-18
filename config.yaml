@@ -102,7 +102,7 @@ params:
       startdate: Jan 2020
       enddate: Feb 2020
       featuredpoints:
-        - point: "Learnt python programming from datatypes to classes,objects,OOPS"
+        - point: "Learnt python programming from basics to classes,objects,OOPS"
         - point: "Learnt libraries like numpy,pandas,matplotlib,seaborn,plotly."
         - point: "Built projects like ML-preprocessor with CLI,Email Slicer and so on"
 
@@ -111,36 +111,36 @@ params:
   education:
     - degree: "B.tech-"
       branch: "DataScience(HONOURS)"
-      university: "Jain University"
+      university: "Jain University,Bangalore,India"
      
       startedyear: "2019"
       graduation: "2023"
     - degree: "Class XII-"
-      branch: "PCMS"
+      branch: "PHYSICS,CHEMISTRY,MATHS,STATISTICS(PCMS)"
       university: "Vidyodaya PU College"
       startedyear: "2018"
       graduation: "2019"
     - degree: "Class X"
       university: "Indrali English Medium High School"
-      startedyear: "2017"
-      graduation: "2018"
+      startedyear: "2016"
+      graduation: "2017"
 
   # Projects
   disable_projects: false
   projects:
     - name: "Onsite Health Diagnostic"
       img: /images/progress.jpg
-      githublink: "https://github.com/ROHANPATAKAR/"
+      githublink: "https://github.com/rohanpatankar926/"
       featuredlink: ""
-      description: "Description of project"
-    - name: "Insurance prediction website"
+      description: "Currently Working On It Will Update Soon..."
+    - name: "Insurance Prediction website"
       img: /images/progress.jpg
-      githublink: "https://github.com/ROHANPATAKAR/isurance_premium_prediction_web_app"
+      githublink: "https://github.com/rohanpatankar926/insurance_premium_pred_web_app"
       featuredlink: "offerletter.pdf"
-      description: "Description of project"
+      description: "Currently Working On It Will update Soon..."
     - name: "ML Preprocessor CLI"
       img: /images/ml_pic.png
-      githublink: "https://github.com/rohanpatankar926/"
+      githublink: "https://github.com/rohanpatankar926/ml-preprocessor-cli"
       featuredlink: "https://www.crio.do/projects/python-preprocessor-cli/"
       description: "The main objective of this project is You will implement a Command Line Interface (CLI) which will preprocess your dataset and save your time."
 
