@@ -128,16 +128,22 @@ params:
   # Projects
   disable_projects: false
   projects:
+    - name: "Wafer Fault Detection"
+      img: /images/progress.jpg
+      githublink: "https://github.com/rohanpatankar926/"
+      featuredlink: ""
+      description: "Currently Working On It Will Update Soon..."
     - name: "Onsite Health Diagnostic"
       img: /images/progress.jpg
       githublink: "https://github.com/rohanpatankar926/"
       featuredlink: ""
       description: "Currently Working On It Will Update Soon..."
     - name: "Insurance Prediction website"
-      img: /images/progress.jpg
-      githublink: "https://github.com/rohanpatankar926/insurance_premium_pred_web_app"
+      img: /images/insurance.jpg
+      githublink: "https://github.com/rohanpatankar926/internship_project"
       featuredlink: "offerletter.pdf"
-      description: "Currently Working On It Will update Soon..."
+      description: "Implemented End-End Machine Learning project using MLOPS lifecycle.DVC(data version control) was used here for tracking ml model.It was regression problem"
+                    "and used GradientBoostingRegressor to solve the problem which gave r2_score of **85%** after tuning parameters."
     - name: "ML Preprocessor CLI"
       img: /images/ml_pic.png
       githublink: "https://github.com/rohanpatankar926/ml-preprocessor-cli"
