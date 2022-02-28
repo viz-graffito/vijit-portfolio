@@ -139,10 +139,10 @@ params:
       featuredlink: ""
       description: "Currently Working On It Will Update Soon..."
     - name: "Insurance Prediction website"
-      img: /images/insurance.jpg
+      img: /images/Capture.jpg
       githublink: "https://github.com/rohanpatankar926/internship_project"
       featuredlink: "offerletter.pdf"
-      description: "Implemented End-End Machine Learning project using MLOPS lifecycle.DVC(data version control) was used here for tracking ml model.It was regression problem and used GradientBoostingRegressor to solve the problem which gave r2_score of **85%** after tuning parameters."
+      description: "Implemented End-End Machine Learning project using MLOPS lifecycle.DVC(data version control) was used here for tracking ml model.It was regression problem and used GradientBoostingRegressor to solve the problem which gave r2_score of *85%* after tuning parameters."
     - name: "ML Preprocessor CLI"
       img: /images/ml_pic.png
       githublink: "https://github.com/rohanpatankar926/ml-preprocessor-cli"
