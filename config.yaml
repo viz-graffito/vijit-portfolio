@@ -84,9 +84,9 @@ params:
       startdate: "Jan 18 2022"
       enddate: "ongoing"
       featuredpoints:
-        - point: "Solving an realworld usecase challenge given in the intership"
-        - point: "Using ml I will build model and using Flask will make a simple web application"
-        - point: "Finally hosting using Heroku"
+        - point: "Solving a realworld usecase challenge given in the intership"
+        - point: "Using MLOPS lifecycle to build and deploying the model."
+        - point: "Building Flask api and hosting to Heroku cloud plaform(PAAS)."
     - company: "PantechSolutions"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
       role: "Machine Learning Internship"
@@ -141,7 +141,7 @@ params:
     - name: "Insurance Prediction website"
       img: /images/Capture.png
       githublink: "https://github.com/rohanpatankar926/internship_project"
-      featuredlink: "offerletter.pdf"
+      featuredlink: "https://drive.google.com/file/d/1bhcdx4hRZ5EBiK-Cg6CH7xdzAzA3Az3E/view?usp=sharing"
       description: "Implemented End-End Machine Learning project using MLOPS lifecycle.DVC(data version control) was used here for tracking ml model.It was regression problem and used GradientBoostingRegressor to solve the problem which gave r2_score of 85% after tuning parameters."
     - name: "ML Preprocessor CLI"
       img: /images/ml_pic.png
