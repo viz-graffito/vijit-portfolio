@@ -140,9 +140,9 @@ params:
       description: "Currently Working On It Will Update Soon..."
     - name: "Insurance Prediction website"
       img: /images/Capture.png
-      githublink: "https://github.com/rohanpatankar926/internship_project"
+      githublink: "https://github.com/rohanpatankar926/intenship_project"
       featuredlink: "https://drive.google.com/file/d/1bhcdx4hRZ5EBiK-Cg6CH7xdzAzA3Az3E/view?usp=sharing"
-      description: "Implemented End-End Machine Learning project using MLOPS lifecycle.DVC(data version control) was used here for tracking ml model.It was regression problem and used GradientBoostingRegressor to solve the problem which gave r2_score of 85% after tuning parameters."
+      description: "The End-goal of this project is to give people an estimate of how much they need based on their individual health situation.So here I have implemented End-End Machine Learning project using MLOPS lifecycle.Built CI/CD pipeline.DVC [Data Version Control]("https://dvc.org/") was used here for tracking ml model.It was regression problem statement and in order to get best accuracy I have used GradientBoostingRegressor to solve the problem which gave r2_score of 85% after tuning parameters."
     - name: "ML Preprocessor CLI"
       img: /images/ml_pic.png
       githublink: "https://github.com/rohanpatankar926/ml-preprocessor-cli"
