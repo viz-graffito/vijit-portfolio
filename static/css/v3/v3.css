@@ -150,14 +150,14 @@ a:hover {
   border-bottom-right-radius: 0 !important;
 }
 .content-pro {
-  overflow: scroll;
+  overflow: auto;
   height: 300px;
   background-color: #e5e4e2 !important;
   border-top-right-radius: 0.5rem !important;
   border-bottom-right-radius: 0.5rem !important;
 }
 .content-pro-top {
-  overflow: scroll;
+  overflow: auto;
   color: #000000 !important;
   height: 80%;
 }
