@@ -78,6 +78,12 @@ params:
   # Experience
   disable_experience: false
   experience:
+    - company: "Valuecom-Infosolutions-pvt-ltd"
+      role: "Software Developer Intern"
+      startdate: "April 07 2022"
+      enddate: "Ongoing"
+      featuredpoints: "Currently building android and ios application frontend for the company"
+
     - company: "iNeuron"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
       role: "Project based internship"
@@ -89,7 +95,7 @@ params:
         - point: "Building Flask api and hosting to Heroku cloud plaform(PAAS)."
     - company: "PantechSolutions"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
-      role: "Machine Learning Internship"
+      role: "Machine Learning Intern(trainee)"
       startdate: "Sep 2021"
       enddate: "Oct 2021"
       featuredpoints:
@@ -98,7 +104,7 @@ params:
         - point: "Build numerous types of projects by using different ML and DL algorithms"
     - company: "AzureSkynets_Pvt-Ltd"
       # id: "AzureSkynets Pvt Ltd" // use this, when you want to change the id(used for navigation)
-      role: "Python Programming Internship"
+      role: "Python Programming Internship(trainee)"
       startdate: Jan 2020
       enddate: Feb 2020
       featuredpoints:
