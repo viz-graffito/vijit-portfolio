@@ -56,10 +56,12 @@ params:
   descripe_l4_person: "*You can find my works [here](#projects)* "
 
   skills:
-    - name: "Python"
+    - name: Python
       percentage: 80
-    - name: C
-      percentage: 75
+    - name: Flask 
+      percentage: 80
+    - name: Flutter
+      percentage: 60
     - name: "HTML"
       percentage: 90
     - name: "CSS"
@@ -82,7 +84,8 @@ params:
       role: "Software Developer Intern"
       startdate: "April 07 2022"
       enddate: "Ongoing"
-      featuredpoints: "Currently building android and ios application frontend for the company"
+      featuredpoints:
+        - points:  "Currently building android and ios application frontend for the company"
 
     - company: "iNeuron"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
