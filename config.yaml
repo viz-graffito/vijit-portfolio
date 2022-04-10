@@ -85,7 +85,7 @@ params:
       startdate: "April 07 2022"
       enddate: "Ongoing"
       featuredpoints:
-        - points:  "Currently building android and ios application frontend for the company"
+        - point:  "Currently building android and ios application frontend for the company"
 
     - company: "iNeuron"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
