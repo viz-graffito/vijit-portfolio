@@ -89,13 +89,17 @@ params:
 
     - company: "iNeuron"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
-      role: "Project based internship"
+      role: "Project Intern"
       startdate: "Jan 18 2022"
-      enddate: "ongoing"
+      enddate: "April 16 2022"
       featuredpoints:
-        - point: "Solving a realworld usecase challenge given in the intership"
-        - point: "Using MLOPS lifecycle to build and deploying the model."
-        - point: "Building Flask api and hosting to Heroku cloud plaform(PAAS)."
+        - point: "Solved an Industry level end to end machine learning project"
+        - point: "ML project domain was with respect to Insurance"
+        - point: "Used MLOPS(DVC pipeline) for building and deploying the model."
+        - point: "Built CI/CD pipeline"
+        - point: "Used Flask Api as a backend"
+        - point: "Used Github actions for automatic build and deploy of the model"
+        - point: "Finally hosted to cloud environment i chose heroku platform."
     - company: "PantechSolutions"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
       role: "Machine Learning Intern(trainee)"
