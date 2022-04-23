@@ -148,13 +148,13 @@ params:
       description: "Currently Working On It Will Update Soon..."
     - name: "Onsite Health Diagnostic"
       img: /images/progress.jpg
-      githublink: "https://github.com/rohanpatankar926/"
-      featuredlink: ""
-      description: "Currently Working On It Will Update Soon..."
-    - name: "Insurance Prediction website"
+      githublink: "https://github.com/rohanpatankar926/Onsite-Health-Diagnostic-OHD"
+      featuredlink: "https://onsiteh.herokuapp.com/"
+      description: "This is my college PCL(project centric learning) group project with a team of three people.Here i have majorly worked on building ML and DL models and also i have used flask as backend for building web applicatication and for the automation of the project i have integrate **CI/CD** pipeline using circleci."
+    - name: "Insurance Premium Prediction using Mlops"
       img: /images/Capture.png
       githublink: "https://github.com/rohanpatankar926/intenship_project"
-      featuredlink: "https://drive.google.com/file/d/1bhcdx4hRZ5EBiK-Cg6CH7xdzAzA3Az3E/view?usp=sharing"
+      featuredlink: "https://mlops-application.herokuapp.com/"
       description: "The End-goal of this project is to give people an estimate of how much they need based on their individual health situation.So here I have implemented End-End Machine Learning project using MLOPS lifecycle.Built CI/CD pipeline.DVC(Data Version Control) was used here for track ml model.It was regression problem statement and in order to get best accuracy I have used GradientBoostingRegressor to solve the problem which gave r2_score of 85% after tuning parameters."
     - name: "ML Preprocessor CLI"
       img: /images/ml_pic.png
@@ -164,7 +164,7 @@ params:
   # services
   disable_achievements: false
   achievements:
-    - title: "Website Devolopment"
+    - title: "Website Development"
       description: "Design a website for personal use or for business purpose using HTML, CSS, JS and Python."
       img: /images/Website-Design-new.jpg
     - title: Data Analysis
