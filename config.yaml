@@ -146,12 +146,17 @@ params:
       githublink: "https://github.com/rohanpatankar926/"
       featuredlink: ""
       description: "Currently Working On It Will Update Soon..."
-    - name: "Onsite Health Diagnostic"
+    - name: "Consignment Pricing using MLops(POC)"
+      img: /images/progress.jpg
+      githublink: "https://github.com/rohanpatankar926/"
+      featuredlink: ""
+      description: "Currently Working On It Will Update Soon..."
+    - name: "Onsite Health Diagnostic(POC)"
       img: /images/progress.jpg
       githublink: "https://github.com/rohanpatankar926/Onsite-Health-Diagnostic-OHD"
       featuredlink: "https://onsiteh.herokuapp.com/"
       description: "This is my college PCL(project centric learning) group project with a team of three people.Here i have majorly worked on building ML and DL models and also i have used flask as backend for building web applicatication and for the automation of the project i have integrate **CI/CD** pipeline using circleci."
-    - name: "Insurance Premium Prediction using Mlops"
+    - name: "Insurance Premium Prediction using Mlops(POC)"
       img: /images/Capture.png
       githublink: "https://github.com/rohanpatankar926/intenship_project"
       featuredlink: "https://mlops-application.herokuapp.com/"
