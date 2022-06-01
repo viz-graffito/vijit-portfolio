@@ -33,6 +33,13 @@
             aria-label="experience">Experience</a>
         </li>
         {{ end }}
+        {{ if .Site.Params.disable_certification }}
+        {{ else }}
+        <li class="nav-item navbar-text">
+          <a class="nav-link text-dark" href="{{ .Site.BaseURL | relURL }}#certification"
+            aria-label="experience">Certifications</a>
+        </li>
+        {{ end }}
 
         {{ if .Site.Params.disable_education }}
         {{ else }}
@@ -53,7 +60,7 @@
         {{ else }}
         <li class="nav-item navbar-text">
           <a class="nav-link text-dark" href="{{ .Site.BaseURL | relURL }}#achievements"
-            aria-label="achievements">Services</a>
+            aria-label="achievements">Achievements</a>
         </li>
         {{ end }}
 
