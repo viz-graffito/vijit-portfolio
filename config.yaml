@@ -118,7 +118,53 @@ params:
         - point: "Learnt python programming from basics to classes,objects,OOPS"
         - point: "Learnt libraries like numpy,pandas,matplotlib,seaborn,plotly."
         - point: "Built projects like ML-preprocessor with CLI,Email Slicer and so on"
-
+  
+  #certifications section
+  disable_certification: false
+  certification:
+    - Name: ML-DL-Masters Course
+      institution: iNeuron.ai
+      startdate: "August 2021"
+      enddate: "August 2022"
+      link:
+        - weblink: "https://github.com/rohanpatankar926"
+          certificate: "View Certificate"
+    - Name: Devops-Fundamentals
+      institution: iNeuron.ai
+      startdate: "May 2022"
+      enddate: "June 2022"
+      link:
+        - weblink: "https://learn.ineuron.ai/certificate/acee32d3-5ed3-4923-963d-eee3d647902b"
+          certificate: "View Certificate"
+    - Name: Deep-Learning-Fundamentals
+      institution: iNeuron.ai
+      startdate: "February 2022"
+      enddate: "March 2022"
+      link:
+        - weblink: "https://learn.ineuron.ai/certificate/9f278670-8ee1-4488-a913-063eaf2f2deb"
+          certificate: "View Certificate"
+    - Name: Statistics-for-Data-Science
+      institution: iNeuron.ai
+      startdate: "January 27 2022"
+      enddate: "February 5 2022"
+      link:
+        - weblink: "https://learn.ineuron.ai/certificate/6143e461-4171-40d6-9e4a-a2a7c504fe58"
+          certificate: "View Certificate"
+    - Name: Google-Cloud-30-Day-Challenge
+      institution: Qwiklabs
+      startdate: "October 2021"
+      enddate: "November 2021"
+      link:
+        - weblink: "#"
+          certificate: "View Certificate"
+    - Name: Sql-basics
+      institution: Datacamp
+      startdate: "September 2021"
+      enddate: "October 2021"
+      link:
+        - weblink: "#"
+          certificate: "View Certificate"
+      
   # Education
   disable_education: false
   education:
