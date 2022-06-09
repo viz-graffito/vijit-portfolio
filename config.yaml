@@ -201,8 +201,8 @@ params:
       description: "Currently Working On It Will Update Soon..."
     - name: "Consignment Pricing using MLops(POC)"
       img: /images/progress.jpg
-      githublink: "https://github.com/rohanpatankar926/"
-      featuredlink: ""
+      githublink: "https://github.com/rohanpatankar926/Consignment-Pricing-Using-Mlops-DVC"
+      featuredlink: "https://consignmentpricing.herokuapp.com/"
       description: "Currently Working On It Will Update Soon..."
     - name: "Onsite Health Diagnostic(POC)"
       img: /images/progress.jpg
