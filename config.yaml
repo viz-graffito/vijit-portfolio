@@ -122,14 +122,7 @@ params:
   #certifications section
   disable_certification: false
   certification:
-    - Name: ML-DL-Masters Course
-      institution: iNeuron.ai
-      startdate: "August 2021"
-      enddate: "August 2022"
-      link:
-        - weblink: "https://github.com/rohanpatankar926"
-          certificate: "View Certificate"
-    - Name: ML-DL-Masters Course
+    - Name: ML-DL-Masters-Course
       institution: iNeuron.ai
       startdate: "August 2021"
       enddate: "August 2022"
