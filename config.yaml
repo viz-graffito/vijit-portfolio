@@ -210,7 +210,7 @@ params:
       featuredlink: "https://consignmentpricing.herokuapp.com/"
       description: "Designed and built an end-to-end scalable machine learning pipeline using Mlops in which i have integrated everything on a frontend so that user can get log file,artifacts,model binary file and also save the data to the database which can help for future retraining and also you can perform complete retraining of the model by just one click.The main aim is to build an entire system of a machine learning so that it can be used in realworld scenario."
     - name: "Onsite Health Diagnostic(POC)"
-      img: /images/progress.jpg
+      img: /images/Onsite.png
       githublink: "https://github.com/rohanpatankar926/Onsite-Health-Diagnostic-OHD"
       featuredlink: "https://onsiteh.herokuapp.com/"
       description: "This is my college PCL(project centric learning) group project with a team of three people.Here i have majorly worked on building ML and DL models and also i have used flask as backend for building web applicatication and for the automation of the project i have integrate **CI/CD** pipeline using circleci."
