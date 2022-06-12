@@ -194,16 +194,21 @@ params:
   # Projects
   disable_projects: false
   projects:
+    - name: "Consumer Complaint Sentimental Analysis Using AIops(POC)"
+      img: /images/progress.jpg
+      githublink: "https://github.com/rohanpatankar926"
+      featuredlink: ""
+      description: "Currently Working On It Will Update Soon...😄"
     - name: "Wafer Fault Detection"
       img: /images/progress.jpg
       githublink: "https://github.com/rohanpatankar926/"
       featuredlink: ""
-      description: "Currently Working On It Will Update Soon..."
+      description: "Currently Working On It Will Update Soon...😄"
     - name: "Consignment Pricing using MLops(POC)"
-      img: /images/progress.jpg
+      img: /images/Consignment.jpg
       githublink: "https://github.com/rohanpatankar926/Consignment-Pricing-Using-Mlops-DVC"
       featuredlink: "https://consignmentpricing.herokuapp.com/"
-      description: "Currently Working On It Will Update Soon..."
+      description: "Designed and built an end-to-end scalable machine learning pipeline using Mlops in which i have integrated everything on a frontend so that user can get log file,artifacts,model binary file and also save the data to the database which can help for future retraining and also you can perform complete retraining of the model by just one click.The main aim is to build an entire system of a machine learning so that it can be used in realworld scenario."
     - name: "Onsite Health Diagnostic(POC)"
       img: /images/progress.jpg
       githublink: "https://github.com/rohanpatankar926/Onsite-Health-Diagnostic-OHD"
