@@ -21,7 +21,7 @@ params:
   version: 3
   customCSS: false
 
-  favicon: /images/fav.png
+  favicon: https://cdn2.iconfinder.com/data/icons/inclusiveness-vivid-vol-2/256/Scientist-male-512.png
   description: "Rohan's personal portfolio"
 
   # Navbar Menus
