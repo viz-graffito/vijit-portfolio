@@ -193,7 +193,7 @@ params:
       featuredlink: ""
       description: "Currently Working On It Will Update Soon...😄"
     - name: "Text Data Summarizer using HuggingFace Api"
-      img: /images/text_summarizer.jpg
+      img: /images/text_summarizer.png
       githublink: "https://github.com/rohanpatankar926/DataSummarizer-using-huggingface-api/"
       featuredlink: "https://datasummarizer.herokuapp.com/"
       description: "This is my NLP project where i have used huggingface pretrained model api in order to summarize the text content.I have build end to end website using flask api where user can easily get high quality text summaries they required.Iam also trying to build my own custom tranformers for training my nlp models."
