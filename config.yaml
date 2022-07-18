@@ -80,12 +80,17 @@ params:
   # Experience
   disable_experience: false
   experience:
+    - company: "iNeuron.ai"
+      role: Junior Data Scientist
+      startdate: July 25 2022
+      enddate: Ongoing
+      
     - company: "Valuecom-Infosolutions-pvt-ltd"
       role: "Software Developer Intern"
       startdate: "April 07 2022"
-      enddate: "Ongoing"
+      enddate: "July 07 2022"
       featuredpoints:
-        - point:  "Currently building android and ios application frontend for the company"
+        - point:  "Built the automated python script which is used to send a particular data from database and integrated it to a frontend where all operations can be made easily"
 
     - company: "iNeuron"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
