@@ -80,11 +80,6 @@ params:
   # Experience
   disable_experience: false
   experience:
-    - company: "iNeuron.ai"
-      role: Junior Data Scientist
-      startdate: July 25 2022
-      enddate: Ongoing
-      
     - company: "Valuecom-Infosolutions-pvt-ltd"
       role: "Software Developer Intern"
       startdate: "April 07 2022"
