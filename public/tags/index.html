@@ -77,65 +77,65 @@ if (!doNotTrack) {
 var refJSON = {"isPreview":true,"greetingEnabled":true,"greetingTitle":"Hello Iam Your assistant","greetingMessage":"Hello world😀😀...if HR: \"Please Schedule an Interview\"  elif: Any Tech Doubts: \"Connect to me\"  else: \"Press X\"\n\n","position":"right","verticalOffset":0,"horizontalOffset":0,"displayMode":"everywhere","primaryColor":"#007bff","isDefaultMainCBImage":true,"bottomLabel":null,"mainCBImage":"https://app.getchatbutton.com/assets/cb/cb/main-transparent.png","greetingIcon":"https://app.getchatbutton.com/assets/cb/cb/empty-avatar.png","items":[{"name":"WhatsApp","slug":"whatsapp","target":"+919886600475","color":"#007bff","faName":["fab","whatsapp"],"link":"https://wa.me/","showInputHint":false}],"env":"production"}
 var baseURL = "https://static.getchatbutton.com"
 
-function loadCB() {
+// function loadCB() {
 
-  var rootDiv = document.createElement("div")
-  rootDiv.id = "oursky-cb"
-  document.body.appendChild(rootDiv)
+//   var rootDiv = document.createElement("div")
+//   rootDiv.id = "oursky-cb"
+//   document.body.appendChild(rootDiv)
 
-  var fbRoot = document.createElement("div")
-  fbRoot.id = "fb-root"
-  fbRoot.style.opacity = "0"
-  document.body.appendChild(fbRoot)
+//   var fbRoot = document.createElement("div")
+//   fbRoot.id = "fb-root"
+//   fbRoot.style.opacity = "0"
+//   document.body.appendChild(fbRoot)
 
-  var fbCustomerChat = document.createElement("div")
-  fbCustomerChat.id = "fb-customer-chat"
-  fbCustomerChat.classList.add("fb-customerchat")
-  document.body.appendChild(fbCustomerChat)
+//   var fbCustomerChat = document.createElement("div")
+//   fbCustomerChat.id = "fb-customer-chat"
+//   fbCustomerChat.classList.add("fb-customerchat")
+//   document.body.appendChild(fbCustomerChat)
 
-  if (!document.getElementById("facebook-jssdk")) {
-    var script = document.createElement("script")
-    script.src = "https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js"
-    script.crossOrigin = "anonymous"
-    document.body.appendChild(script)
-  }
+//   if (!document.getElementById("facebook-jssdk")) {
+//     var script = document.createElement("script")
+//     script.src = "https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js"
+//     script.crossOrigin = "anonymous"
+//     document.body.appendChild(script)
+//   }
 
 
-  fetch(baseURL + '/asset-manifest.json')
-    .then(function (response) { return response.json() })
-    .then(function (data) {
+//   fetch(baseURL + '/asset-manifest.json')
+//     .then(function (response) { return response.json() })
+//     .then(function (data) {
 
-      const entryPoints = data.entrypoints
-      entryPoints.forEach(function (entryPoint) {
-        var url = baseURL + '/' + entryPoint
-        if (url.endsWith(".js")) {
-          var script = document.createElement("script")
-          script.src = url
-          document.body.appendChild(script)
-        } else if (url.endsWith(".css")) {
-          var stylesheet = document.createElement("link")
-          stylesheet.href = url
-          stylesheet.rel = "stylesheet"
-          document.head.appendChild(stylesheet)
-        }
-      })
+//       const entryPoints = data.entrypoints
+//       entryPoints.forEach(function (entryPoint) {
+//         var url = baseURL + '/' + entryPoint
+//         if (url.endsWith(".js")) {
+//           var script = document.createElement("script")
+//           script.src = url
+//           document.body.appendChild(script)
+//         } else if (url.endsWith(".css")) {
+//           var stylesheet = document.createElement("link")
+//           stylesheet.href = url
+//           stylesheet.rel = "stylesheet"
+//           document.head.appendChild(stylesheet)
+//         }
+//       })
       
-    })
-    .catch(function (error) {
-      console.error("[cb] unable to load GetChatButton from manifest")
-    })
-}
+//     })
+//     .catch(function (error) {
+//       console.error("[cb] unable to load GetChatButton from manifest")
+//     })
+// }
 
-if (document.readyState !== 'complete') {
-  window.addEventListener('load', loadCB)
-} else {
-  loadCB()
-}
+// if (document.readyState !== 'complete') {
+//   window.addEventListener('load', loadCB)
+// } else {
+//   loadCB()
+// }
     
-</script>
+// </script>
 
 
-<script type="text/javascript">
+<!-- <script type="text/javascript">
 (function() {
 window.__insp = window.__insp || [];
 __insp.push(['wid', 1112919413]);
@@ -143,7 +143,7 @@ var ldinsp = function(){
 if(typeof window.__inspld != "undefined") return; window.__inspld = 1; var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js?wid=1112919413&r=' + Math.floor(new Date().getTime()/3600000); var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); };
 setTimeout(ldinsp, 0);
 })();
-</script>
+</script> -->
 
 <div class="container">
   <nav class="pt-3 navbar navbar-expand-lg navbar-light" data-aos="fade-down" data-aos-easing="linear"
@@ -151,7 +151,7 @@ setTimeout(ldinsp, 0);
     <a class="navbar-brand" href="../">
       
       <img src="https://cdn2.iconfinder.com/data/icons/inclusiveness-vivid-vol-2/256/Scientist-male-512.png" width="30" height="30" class="d-inline-block align-top">
-      Rohan Patankar | Portfolio
+      Vijit Singh | Portfolio
       
     </a>
 
@@ -244,11 +244,11 @@ setTimeout(ldinsp, 0);
 
 
 <footer>
-  <head>
+  <!-- <head>
     <center><h4>Buy Me a Coffee☕</h4></center>
     <center><form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_IhMKbiiUVIUa7b" async> </script> </form></center>
      <script src="https://www.google.com/recaptcha/api.js"></script>
-  </head>
+  </head> -->
   
   <div class="news container py-3" data-aos="fade-up" data-aos-easing="linear" data-aos-once="true">
     
@@ -263,7 +263,7 @@ setTimeout(ldinsp, 0);
   <div class="text-center">
     
     <span class="px-1">
-      <a class="text-dark text-decoration-none" href="https://github.com/rohanpatankar926/" aria-label="github">
+      <a class="text-dark text-decoration-none" href="https://github.com/viz-graffito/" aria-label="github">
         <svg xmlns="http://www.w3.org/2000/svg" width="2.7em" height="2.7em" viewBox="0 0 1792 1792">
           <path
             d="M522 1352q-8 9-20-3-13-11-4-19 8-9 20 3 12 11 4 19zm-42-61q9 12 0 19-8 6-17-7t0-18q9-7 17 6zm-61-60q-5 7-13 2-10-5-7-12 3-5 13-2 10 5 7 12zm31 34q-6 7-16-3-9-11-2-16 6-6 16 3 9 11 2 16zm129 112q-4 12-19 6-17-4-13-15t19-7q16 5 13 16zm63 5q0 11-16 11-17 2-17-11 0-11 16-11 17-2 17 11zm58-10q2 10-14 14t-18-8 14-15q16-2 18 9zm964-956v960q0 119-84.5 203.5t-203.5 84.5h-224q-16 0-24.5-1t-19.5-5-16-14.5-5-27.5v-239q0-97-52-142 57-6 102.5-18t94-39 81-66.5 53-105 20.5-150.5q0-121-79-206 37-91-8-204-28-9-81 11t-92 44l-38 24q-93-26-192-26t-192 26q-16-11-42.5-27t-83.5-38.5-86-13.5q-44 113-7 204-79 85-79 206 0 85 20.5 150t52.5 105 80.5 67 94 39 102.5 18q-40 36-49 103-21 10-45 15t-57 5-65.5-21.5-55.5-62.5q-19-32-48.5-52t-49.5-24l-20-3q-21 0-29 4.5t-5 11.5 9 14 13 12l7 5q22 10 43.5 38t31.5 51l10 23q13 38 44 61.5t67 30 69.5 7 55.5-3.5l23-4q0 38 .5 103t.5 68q0 22-11 33.5t-22 13-33 1.5h-224q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" />
@@ -303,7 +303,7 @@ setTimeout(ldinsp, 0);
     
 
     
-    <a class="text-info text-decoration-none" href="https://twitter.com/Rohan20075428" aria-label="twitter">
+    <!-- <a class="text-info text-decoration-none" href="https://twitter.com/Rohan20075428" aria-label="twitter"> -->
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px">
         <path fill="#03a9f4"
           d="M42,37c0,2.762-2.239,5-5,5H11c-2.762,0-5-2.238-5-5V11c0-2.762,2.238-5,5-5h26c2.761,0,5,2.238,5,5 V37z" />
@@ -314,7 +314,7 @@ setTimeout(ldinsp, 0);
     
 
     
-    <a class="text-danger text-decoration-none" href="https://instagram.com/__rohan__95?utm_medium=copy_link" aria-label="instagram">
+    <a class="text-danger text-decoration-none" href="https://instagram.com/viz-graffito" aria-label="instagram">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px">
         <radialGradient id="yOrnnhliCrdS2gy~4tD8ma" cx="19.38" cy="42.035" r="44.899" gradientUnits="userSpaceOnUse">
           <stop offset="0" stop-color="#fd5" />
@@ -350,14 +350,14 @@ setTimeout(ldinsp, 0);
     <div class="row justify-content-center">
       <div class="col-md-4 text-center order-2 order-lg-1 order-md-1">
         <div class="pb-2">
-          <a href="https://rohanpatankar.netlify.app/">
+          <a href="https://viz-graffito.netlify.app/">
             <img alt="Footer logo" src="https://cdn2.iconfinder.com/data/icons/inclusiveness-vivid-vol-2/256/Scientist-male-512.png" height="40px"
               width="40px">
           </a>
         </div>
         &copy; 2022 All Rights Reserved
         <div>
-           Made with &#10084; | Designed and Developed by <a href="linkedin.com/in/rohanpatankar926/" target="_blank">Rohan Patankar</a>
+           Made with &#10084; | Designed and Developed by <a href="linkedin.com/in/viz-graffito/" target="_blank">Vijit Singh</a>
         </div>
         <br>
         <div>
