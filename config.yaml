@@ -29,7 +29,7 @@ params:
 
   # home
   disable_home: false
-  profile_image: /image/profile1.jpg
+  profile_image: /images/profile2png.png
   name: "Vijit Singh"
   namecolor: ffc107
   profession: "Data Scientist"
