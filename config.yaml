@@ -50,12 +50,12 @@ params:
   disable_about: false  
   descripe_l1_person: "Dedicated data scientist with over a year experience in Data Science with 2 years of total working experience looking for working in an organisation that provides opportunities for technical and personal advancement."
   descripe_l2_person: "### Real world capabilities"
-  descripe_l3_person: ""
+  descripe_l3_person: "2 years of Industry Experince with more than a year of Experience in Data Science using ML Algorithms. Extensive knowledge in SQL, Tableau, Python with libraries Such as Sklearn, TensorFlow, Numpy, Pandas, Matplotlib, Seaborn. Some of my soft skills worth mentioning are communication also I've been a team lead in my Current Organisation."
   descripe_l4_person: "*You can find personal projects [here](#projects)* "
 
   skills:
     - name: Python
-      percentage: 80
+      percentage: 85
     - name: SQL 
       percentage: 80
     - name: Tableau
@@ -69,7 +69,7 @@ params:
     - name: mongodb
       percentage: 70
     - name: BASH
-      percentage: 90
+      percentage: 70
     - name: "HTML"
       percentage: 80
     - name: "CSS"
@@ -83,8 +83,10 @@ params:
       startdate: "July 2021"
       enddate: "Present"
       featuredpoints:
-        - point:  ""
-
+        - point: "Designed a robust reputation model for production to give ratings to each individual user based on their performance segregating them to increase profitability by 200% by adding features as a premium"
+        - point: "Deployed recommendation model on search engine based on reputation and experience of a user increases server traffic by 50%"
+        - point: "Conducted A/B testing to solve client pain points in learning platforms, and identified and recommended solutions to solve unclear platform roadmaps, which reduced the bounce rate by 32%"
+        - point: "Led a tech team of 7 engineers to model the ordering process 5 unique ways, reported results, and made recommendations to increase order output by 10%"
     - company: "Tech Mahindra"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
       role: "Tech. Associate"
@@ -104,9 +106,9 @@ params:
       startdate: "March 2021"
       enddate: "April 2021"
       featuredpoints:
-        - point: "Learn ML & DL from Scratch"
-        - point: "Learnt to build neural networks using ANN,CNN,RNN,LSTM etc"
-        - point: "Build numerous types of projects by using different ML and DL algorithms"
+        - point: "Analyzed the Machine Learning (ML) algorithms that were used to solve a given problem and ranked them by their success probability."
+        - point: "Explored and visualized the data to find actionable insights"
+        - point: "Explored and visualized data to gain an understanding of it, then identified differences in data distribution"
     
   
   #certifications section
@@ -117,42 +119,21 @@ params:
       startdate: "August 2021"
       enddate: "August 2022"
       link:
-        - weblink: "https://github.com/rohanpatankar926"
+        - weblink: "https://drive.google.com/drive/u/2/folders/1RK8cy063GV19dPJxC06gCKZ7RqerY6lF"
           certificate: "View Certificate"
-    - Name: Devops-Fundamentals
-      institution: iNeuron.ai
+    - Name: The Business Intelligence
+      institution: Udemy
       startdate: "May 2022"
       enddate: "June 2022"
       link:
-        - weblink: "https://learn.ineuron.ai/certificate/acee32d3-5ed3-4923-963d-eee3d647902b"
+        - weblink: "https://www.udemy.com/certificate/UC-043eb213-6000-4a84-bb0b-70348fed49c7/"
           certificate: "View Certificate"
-    - Name: Deep-Learning-Fundamentals
+    - Name: Dashboards in Tableau
       institution: iNeuron.ai
       startdate: "February 2022"
       enddate: "March 2022"
       link:
-        - weblink: "https://learn.ineuron.ai/certificate/9f278670-8ee1-4488-a913-063eaf2f2deb"
-          certificate: "View Certificate"
-    - Name: Statistics-for-Data-Science
-      institution: iNeuron.ai
-      startdate: "January 27 2022"
-      enddate: "February 5 2022"
-      link:
-        - weblink: "https://learn.ineuron.ai/certificate/6143e461-4171-40d6-9e4a-a2a7c504fe58"
-          certificate: "View Certificate"
-    - Name: Google-Cloud-30-Day-Challenge
-      institution: Qwiklabs
-      startdate: "October 2021"
-      enddate: "November 2021"
-      link:
-        - weblink: "#"
-          certificate: "View Certificate"
-    - Name: Sql-basics
-      institution: Datacamp
-      startdate: "September 2021"
-      enddate: "October 2021"
-      link:
-        - weblink: "#"
+        - weblink: "https://www.datacamp.com/statement-of-accomplishment/course/8e3077a9900e30d6f75c7b69379290ab01840a11"
           certificate: "View Certificate"
       
   # Education
@@ -173,50 +154,50 @@ params:
   # Projects
   disable_projects: false
   projects:
-    - name: "Consumer Complaint Sentimental Analysis Using AIops(POC)"
+    - name: "Sentiment analysis of Articles on AI"
       img: /images/progress.jpg
-      githublink: "https://github.com/rohanpatankar926"
+      githublink: "https://github.com/viz-graffito/NLP_Sentiment"
       featuredlink: ""
-      description: "Currently Working On It Will Update Soon...😄"
-    - name: "Text Data Summarizer using HuggingFace Api"
+      description: "Goal is to extract all the information like sentiments, complex words, syllables , ploary/subjective score, FOG score etc. from articles using NLTK"
+    - name: "Predicting Astrological signs"
       img: /images/text_summarizer.png
-      githublink: "https://github.com/rohanpatankar926/DataSummarizer-using-huggingface-api/"
-      featuredlink: "https://datasummarizer.herokuapp.com/"
-      description: "This is my NLP project where i have used huggingface pretrained model api in order to summarize the text content.I have build end to end website using flask api where user can easily get high quality text summaries they required.Iam also trying to build my own custom tranformers for training my nlp models."
-    - name: "Wafer Fault Detection"
-      img: /images/progress.jpg
-      githublink: "https://github.com/rohanpatankar926/"
+      githublink: "https://github.com/viz-graffito/OKCupid-Date-A-Scientist-Starter"
       featuredlink: ""
-      description: "Currently Working On It Will Update Soon...😄"
-    - name: "Consignment Pricing using MLops(POC)"
+      description: "Predict Astrological signs depending on their multiple attributes given on dating app."
+    - name: "Students Exams EDA"
+      img: /images/progress.jpg
+      githublink: "https://github.com/viz-graffito/Students_Exams_EDA"
+      featuredlink: ""
+      description: "In this EDA genreal Aim is to analyse the data in sequence manner and extract some specific question regarding the performance of the students."
+    - name: "Customer_Chrun_Analysis"
       img: /images/Consignment.jpg
-      githublink: "https://github.com/rohanpatankar926/Consignment-Pricing-Using-Mlops-DVC"
-      featuredlink: "https://consignmentpricing.herokuapp.com/"
-      description: "Designed and built an end-to-end scalable machine learning pipeline using Mlops in which i have integrated everything on a frontend so that user can get log file,artifacts,model binary file and also save the data to the database which can help for future retraining and also you can perform complete retraining of the model by just one click.The main aim is to build an entire system of a machine learning so that it can be used in realworld scenario."
-    - name: "Onsite Health Diagnostic(POC)"
+      githublink: "https://github.com/viz-graffito/Customer_Chrun_Analysis_SQL"
+      featuredlink: ""
+      description: "In this project I did customer Churn Analysis of codeflix on SQL."
+    - name: "Predicting Employee Absenteeism"
       img: /images/Onsite.png
-      githublink: "https://github.com/rohanpatankar926/Onsite-Health-Diagnostic-OHD"
-      featuredlink: "https://onsiteh.herokuapp.com/"
-      description: "This is my college PCL(project centric learning) group project with a team of three people.Here i have majorly worked on building ML and DL models and also i have used flask as backend for building web applicatication and for the automation of the project i have integrate **CI/CD** pipeline using circleci."
-    - name: "Insurance Premium Prediction using Mlops(POC)"
+      githublink: "https://github.com/viz-graffito/predicting-employee-absenteeism"
+      featuredlink: "https://public.tableau.com/app/profile/vijit.singh8031/viz/Employeeabsenteeismprediction/EmployeeAbsenteeismPrediction"
+      description: "The End-goal of this project is to predict weather or not an employee can be expected to be missing for a specific number of hours in a givin work day."
+    - name: "Predicting Zomato Rating"
       img: /images/Capture.png
-      githublink: "https://github.com/rohanpatankar926/intenship_project"
-      featuredlink: "https://mlops-application.herokuapp.com/"
-      description: "The End-goal of this project is to give people an estimate of how much they need based on their individual health situation.So here I have implemented End-End Machine Learning project using MLOPS lifecycle.Built CI/CD pipeline.DVC(Data Version Control) was used here for track ml model.It was regression problem statement and in order to get best accuracy I have used GradientBoostingRegressor to solve the problem which gave r2_score of 85% after tuning parameters."
-    - name: "ML Preprocessor CLI"
+      githublink: ""
+      featuredlink: ""
+      description: This project is still in process..."
+    - name: "Predict outcome of Stiens Gate"
       img: /images/ml_pic.png
-      githublink: "https://github.com/rohanpatankar926/ml-preprocessor-cli"
-      featuredlink: "https://www.crio.do/projects/python-preprocessor-cli/"
-      description: "The main objective of this project is You will implement a Command Line Interface (CLI) which will preprocess your dataset and save your time."
+      githublink: ""
+      featuredlink: ""
+      description: "This project is still in process..."
   # services
   disable_achievements: false
   achievements:
-    - title: "Website Development"
-      description: "Design a website for personal use or for business purpose using HTML, CSS, JS and Python."
-      img: /images/Website-Design-new.jpg
     - title: Data Analysis
       description: "With the help of tableu or python analyze the data of the business or client needs which help them to solve business problems."
       img: /images/da.jpg
+    - title: "Website Development"
+      description: "Design a website for personal use or for business purpose using HTML, CSS, JS and Python."
+      img: /images/Website-Design-new.jpg
       # url: https://example.com
     - title: Machine Learning & Deep Learning
       description: "Build various types of ML and DL models according to business or client needs in which it helps to solve complex business issues." 
@@ -224,8 +205,8 @@ params:
     
   # Contact
   disable_contact: false
-  contact_content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you! 
-  email: "rohanpatankar926@mail.com"
+  contact_content: Don't Hesitate to ask me anything. I would love to help you in anyway.
+  email: "vijitsingh95@gmail.com"
 
   # Footer
   socialiconfooter: true
