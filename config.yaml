@@ -86,7 +86,6 @@ params:
         - point: "Designed a robust reputation model for production to give ratings to each individual user based on their performance segregating them to increase profitability by 200% by adding features as a premium"
         - point: "Deployed recommendation model on search engine based on reputation and experience of a user increases server traffic by 50%"
         - point: "Conducted A/B testing to solve client pain points in learning platforms, and identified and recommended solutions to solve unclear platform roadmaps, which reduced the bounce rate by 32%"
-        - point: "Led a tech team of 7 engineers to model the ordering process 5 unique ways, reported results, and made recommendations to increase order output by 10%"
     - company: "Tech Mahindra"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
       role: "Tech. Associate"
