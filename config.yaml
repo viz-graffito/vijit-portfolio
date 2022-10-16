@@ -35,16 +35,17 @@ params:
   profession: "Data Scientist"
   github: "https://github.com/viz-graffito/"
   linkedin: "https://www.linkedin.com/in/viz-graffito/"
-  gmail: "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rohanpatankar926@gmail.com"
+  gmail: "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=vijitsingh95@gmail.com"
   instagram: "https://instagram.com/vizz_graffito"
+  resume: './static/vijit/Vijit_DS_Resume_New.pdf"'
   
 
   # Custom social links
   customSocialLinks:
     - fontAwesomeIconName: "fa fa-envelope"
-      url: "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rohanpatankar926@gmail.com"
+      url: "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=vijitsingh95@gmail.com"
       fontAwesomeIconName: "fa fa-envelope"
-      url: "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rohanpatankar926@gmail.com"
+      url: "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=vijitsingh95@gmail.com"
 
   # About
   disable_about: false  
