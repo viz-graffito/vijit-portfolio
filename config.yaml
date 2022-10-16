@@ -84,15 +84,17 @@ params:
       enddate: "Present"
       featuredpoints:
         - point: "Designed a robust reputation model for production to give ratings to each individual user based on their performance segregating them to increase profitability by 200% by adding features as a premium"
-        # - point: "Deployed recommendation model on search engine based on reputation and experience of a user increases server traffic by 50%"
-        # - point: "Conducted A/B testing to solve client pain points in learning platforms, and identified and recommended solutions to solve unclear platform roadmaps, which reduced the bounce rate by 32%"
+        - point: "Deployed recommendation model on search engine based on reputation and experience of a user increases server traffic by 50%"
+        - point: "Conducted A/B testing to solve client pain points in learning platforms, and identified and recommended solutions to solve unclear platform roadmaps, which reduced the bounce rate by 32%"
     - company: "Tech-Mahindra"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
       role: "Tech. Associate"
       startdate: "Oct 2020"
       enddate: "June 2021"
       featuredpoints:
-        - point: "fix"
+        - point: "Worked with MS excel to track the salesforce work performed by employees"
+        - point: "Built out technical documentation for processes and infrastructure,leading to a 2-day reduction in onboarding for new customers."
+
     - company: "The-Sparks-Foundation"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
       role: "Data Science Intern"
@@ -109,22 +111,22 @@ params:
   certification:
     - Name: Data_Analyst
       institution: Codecademy
-      startdate: "August 2021"
-      enddate: "August 2022"
+      startdate: "January 2022"
+      enddate: "March 2022"
       link:
         - weblink: "https://drive.google.com/drive/u/2/folders/1RK8cy063GV19dPJxC06gCKZ7RqerY6lF"
           certificate: "View Certificate"
     - Name: The_Business_Intelligence
       institution: Udemy
-      startdate: "May 2022"
-      enddate: "June 2022"
+      startdate: "August 2021"
+      enddate: "September 2021"
       link:
         - weblink: "https://www.udemy.com/certificate/UC-043eb213-6000-4a84-bb0b-70348fed49c7/"
           certificate: "View Certificate"
     - Name: Dashboards_in_Tableau
-      institution: iNeuron.ai
-      startdate: "February 2022"
-      enddate: "March 2022"
+      institution: Datacamp
+      startdate: "June 2021"
+      enddate: "August 2021"
       link:
         - weblink: "https://www.datacamp.com/statement-of-accomplishment/course/8e3077a9900e30d6f75c7b69379290ab01840a11"
           certificate: "View Certificate"
@@ -148,37 +150,37 @@ params:
   disable_projects: false
   projects:
     - name: "Sentiment analysis of Articles on AI"
-      img: /images/progress.jpg
+      img: /images/sentiment.png
       githublink: "https://github.com/viz-graffito/NLP_Sentiment"
       featuredlink: ""
       description: "Goal is to extract all the information like sentiments, complex words, syllables , ploary/subjective score, FOG score etc. from articles using NLTK"
     - name: "Predicting Astrological signs"
-      img: /images/text_summarizer.png
+      img: /images/output.png
       githublink: "https://github.com/viz-graffito/OKCupid-Date-A-Scientist-Starter"
       featuredlink: ""
       description: "Predict Astrological signs depending on their multiple attributes given on dating app."
     - name: "Students Exams EDA"
-      img: /images/progress.jpg
+      img: /images/EDA.png
       githublink: "https://github.com/viz-graffito/Students_Exams_EDA"
       featuredlink: ""
       description: "In this EDA genreal Aim is to analyse the data in sequence manner and extract some specific question regarding the performance of the students."
     - name: "Customer_Chrun_Analysis"
-      img: /images/Consignment.jpg
+      img: /images/project2.jpg
       githublink: "https://github.com/viz-graffito/Customer_Chrun_Analysis_SQL"
       featuredlink: ""
       description: "In this project I did customer Churn Analysis of codeflix on SQL."
     - name: "Predicting Employee Absenteeism"
-      img: /images/Onsite.png
+      img: /images/Employee.png
       githublink: "https://github.com/viz-graffito/predicting-employee-absenteeism"
       featuredlink: "https://public.tableau.com/app/profile/vijit.singh8031/viz/Employeeabsenteeismprediction/EmployeeAbsenteeismPrediction"
       description: "The End-goal of this project is to predict weather or not an employee can be expected to be missing for a specific number of hours in a givin work day."
     - name: "Predicting Zomato Rating"
-      img: /images/Capture.png
+      img: /images/progress.jpg
       githublink: ""
       featuredlink: ""
       description: This project is still in process..."
     - name: "Predict outcome of Stiens Gate"
-      img: /images/ml_pic.png
+      img: /images/progress.jpg
       githublink: ""
       featuredlink: ""
       description: "This project is still in process..."
@@ -198,7 +200,7 @@ params:
     
   # Contact
   disable_contact: false
-  contact_content: Don't Hesitate to ask me anything. I would love to help you in anyway.
+  contact_content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
   email: "vijitsingh95@gmail.com"
 
   # Footer
