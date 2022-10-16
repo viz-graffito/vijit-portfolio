@@ -78,7 +78,7 @@ params:
   # Experience
   disable_experience: false
   experience:
-    - company: "Aay-Technology-Pvt.-Ltd"
+    - company: "Aay-Technology-Pvt-Ltd"
       role: "Data Scientist"
       startdate: "July 2021"
       enddate: "Present"
