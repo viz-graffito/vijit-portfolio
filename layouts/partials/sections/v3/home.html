@@ -91,7 +91,11 @@
       <div class="col-md-5 text-center pt-2 pt-md-0 position-relative">
         {{ if .Site.Params.profile_image }}
         <img class="profile rounded shadow-lg" data-aos="zoom-in" data-aos-once="true" data-aos-duration="1000"
-          src="{{ .Site.Params.profile_image }}" alt="{{ .Site.Params.name }}" class="rounded">
+          src="{{ .Site.Params.profile_image }}" alt="{{ .Site.Params.name }}" class="rounded" style="border-top-width: 0px;
+          border-bottom-width: 0px;
+          border-right-width: 0px;
+          border-left-width: 0px;
+      ">
         {{ end }}
       </div>
 
