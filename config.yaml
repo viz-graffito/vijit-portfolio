@@ -103,7 +103,7 @@ params:
       featuredpoints:
         - point: "Analyzed the Machine Learning (ML) algorithms that were used to solve a given problem and ranked them by their success probability."
         - point: "Explored and visualized the data to find actionable insights"
-        - point: "Explored and visualized data to gain an understanding of it, then identified differences in data distribution"
+        - point: "Identified differences in data distribution"
     
   
   #certifications section
