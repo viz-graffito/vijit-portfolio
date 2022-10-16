@@ -78,7 +78,7 @@ params:
   # Experience
   disable_experience: false
   experience:
-    - company: "Aay Technology Pvt. Ltd."
+    - company: "Aay-Technology-Pvt.-Ltd."
       role: "Data Scientist"
       startdate: "July 2021"
       enddate: "Present"
@@ -86,14 +86,14 @@ params:
         - point: "Designed a robust reputation model for production to give ratings to each individual user based on their performance segregating them to increase profitability by 200% by adding features as a premium"
         # - point: "Deployed recommendation model on search engine based on reputation and experience of a user increases server traffic by 50%"
         # - point: "Conducted A/B testing to solve client pain points in learning platforms, and identified and recommended solutions to solve unclear platform roadmaps, which reduced the bounce rate by 32%"
-    - company: Tech Mahindra
+    - company: "Tech-Mahindra"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
       role: "Tech. Associate"
       startdate: "Oct 2020"
       enddate: "June 2021"
       featuredpoints:
         - point: "fix"
-    - company: The Sparks Foundation
+    - company: "The-Sparks-Foundation"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
       role: "Data Science Intern"
       startdate: "March 2021"
@@ -107,21 +107,21 @@ params:
   #certifications section
   disable_certification: false
   certification:
-    - Name: Data Analyst
+    - Name: Data_Analyst
       institution: Codecademy
       startdate: "August 2021"
       enddate: "August 2022"
       link:
         - weblink: "https://drive.google.com/drive/u/2/folders/1RK8cy063GV19dPJxC06gCKZ7RqerY6lF"
           certificate: "View Certificate"
-    - Name: The Business Intelligence
+    - Name: The_Business_Intelligence
       institution: Udemy
       startdate: "May 2022"
       enddate: "June 2022"
       link:
         - weblink: "https://www.udemy.com/certificate/UC-043eb213-6000-4a84-bb0b-70348fed49c7/"
           certificate: "View Certificate"
-    - Name: Dashboards in Tableau
+    - Name: Dashboards_in_Tableau
       institution: iNeuron.ai
       startdate: "February 2022"
       enddate: "March 2022"
