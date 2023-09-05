@@ -62,7 +62,7 @@ params:
       percentage: 70
     - name: Machine Learning
       percentage: 70
-    - name: DJANGO
+    - name: MLOps
       percentage: 50
     - name: Flask
       percentage: 80
