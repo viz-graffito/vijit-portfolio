@@ -61,7 +61,7 @@ params:
     - name: Tableau
       percentage: 70
     - name: Machine Learning
-      percentage: 70
+      percentage: 82
     - name: MLOps
       percentage: 50
     - name: Flask
