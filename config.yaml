@@ -63,7 +63,7 @@ params:
     - name: Machine Learning
       percentage: 82
     - name: MLOps
-      percentage: 50
+      percentage: 75
     - name: Flask
       percentage: 80
     - name: mongodb
