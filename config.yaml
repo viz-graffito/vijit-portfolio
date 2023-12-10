@@ -73,12 +73,12 @@ params:
     - name: "HTML"
       percentage: 80
     - name: "CSS"
-      percentage: 70
+      percentage: 60
 
   # Experience
   disable_experience: false
   experience:
-    - company: "Aay-Technology-Pvt-Ltd"
+    - company: "ZeoMinds"
       role: "Data Scientist"
       startdate: "Nov 2022"
       enddate: "Present"
