@@ -80,7 +80,15 @@ params:
   experience:
     - company: "Aay-Technology-Pvt-Ltd"
       role: "Data Scientist"
-      startdate: "July 2021"
+      startdate: "Nov 2022"
+      enddate: "Present"
+      featuredpoints:
+        - point: "Led the collection and preprocessing of diverse customer data, including purchase history, demographics, and online activity."
+        - point: "Applied sophisticated clustering methods (K-means, hierarchical clustering) to intricately categorize customers by behavior and similarities."
+        - point: "Created detailed customer profiles for each segment, highlighting purchase patterns, preferences, and distinctive traits."
+    - company: "Aay-Technology-Pvt-Ltd"
+      role: "Data Scientist"
+      startdate: "July 2021 - Oct 2022"
       enddate: "Present"
       featuredpoints:
         - point: "Designed a robust reputation model for production to give ratings to each individual user based on their performance segregating them to increase profitability by 200% by adding features as a premium"
