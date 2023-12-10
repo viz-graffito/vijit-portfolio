@@ -60,7 +60,7 @@ params:
       percentage: 90
     - name: Tableau
       percentage: 70
-    - name: Machine Learning
+    - name: Machine Learning & Deep Learning
       percentage: 82
     - name: MLOps
       percentage: 75
