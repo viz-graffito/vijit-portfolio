@@ -157,6 +157,11 @@ params:
   # Projects
   disable_projects: false
   projects:
+    - name: "Object Detection using yolo V8"
+      img: /images/Employee.png
+      # githublink: ""
+      featuredlink: "https://rtyolo.streamlit.app/"
+      description: "Real time object detection with YOLO V8 on multiple public RTSP."
     - name: "Sentiment analysis of Articles on AI"
       img: /images/sentiment.png
       githublink: "https://github.com/viz-graffito/NLP_Sentiment"
@@ -177,11 +182,6 @@ params:
       githublink: "https://github.com/viz-graffito/Customer_Chrun_Analysis_SQL"
       featuredlink: ""
       description: "In this project I did customer Churn Analysis of codeflix on SQL."
-    - name: "Predicting Employee Absenteeism"
-      img: /images/Employee.png
-      githublink: "https://github.com/viz-graffito/predicting-employee-absenteeism"
-      featuredlink: "https://public.tableau.com/app/profile/vijit.singh8031/viz/Employeeabsenteeismprediction/EmployeeAbsenteeismPrediction"
-      description: "The End-goal of this project is to predict weather or not an employee can be expected to be missing for a specific number of hours in a givin work day."
     - name: "Predicting Zomato Rating"
       img: /images/progress.jpg
       githublink: ""
